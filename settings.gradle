@@ -1,1 +1,1 @@
-include ':iCHMFSymbollib', ':app', ':base', ':instantapp'
+include ':iCHMFApp', ':app', ':base', ':instantapp'

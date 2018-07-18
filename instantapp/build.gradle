@@ -1,6 +1,6 @@
 apply plugin: 'com.android.instantapp'
 
 dependencies {
-    implementation project(':iCHMFSymbollib')
+    implementation project(':iCHMFApp')
     implementation project(':base')
 }

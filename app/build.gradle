@@ -25,6 +25,6 @@ android {
 }
 
 dependencies {
-    implementation project(':iCHMFSymbollib')
+    implementation project(':iCHMFApp')
     implementation project(':base')
 }
